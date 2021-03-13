@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760587903591",
+    "firebase_url": "https://insta-send.firebaseio.com",
+    "project_id": "insta-send",
+    "storage_bucket": "insta-send.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760587903591:android:30ef63b4ef1c777cc8eac2",
+        "android_client_info": {
+          "package_name": "com.materilio.instasend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760587903591-t0kaobml44jm4esuaj8pmlpa2l0pb3jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5vZ_pTRf-9h_eZlAYfyWZkzyE3sqV9Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760587903591-t0kaobml44jm4esuaj8pmlpa2l0pb3jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,2 +1,6 @@
 # instasend
-INSTASEND | A Place to share your photos with your loved ones
+## A new Social Media App on your fingertips
+## Author: Allen Benny
+## UI/UX Designer: Allen Benny
+
+#Made with Love ❤
